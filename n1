@@ -1,0 +1,40 @@
+NIPPERS
+<!-- wp:cover {"url":"https:\/\/oceangroveslsccom.files.wordpress.com\/2020\/08\/img_0765.jpg","id":429,"minHeight":480,"minHeightUnit":"px","contentPosition":"center center","align":"full","className":"is-style-default"} -->
+<div class="wp-block-cover alignfull has-background-dim is-position-center-center is-style-default" style="background-image:url('https://oceangroveslsccom.files.wordpress.com/2020/08/img_0765.jpg');min-height:480px;"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title\u2026","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size">NIPPERS</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:media-text {"mediaId":546,"mediaType":"image","verticalAlignment":"center"} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-center"><figure class="wp-block-media-text__media"><img src="https://oceangroveslsccom.files.wordpress.com/2020/08/screen-shot-2020-08-25-at-3.25.06-pm.png?w=750" alt="" class="wp-image-546" /></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content\u2026","style":{"typography":{"fontSize":16}}} -->
+<p style="font-size:16px;">The OGSLSC Nippers Program is perfect for those aged 7-13 who enjoy the beach. It is a good way to make new friends, keep fit and learn new skills. This club runs a fun and active Nippers program that has two different options for children over 7 years of age. Surf Ed and Surf Sport. The most important part of the Ocean Grove Nippers program is having fun at the beach with your family and friends.<br><br>Become a member to join. Members aged 7-13 are automatically enrolled inn Surf Ed. Those who choose to participate in Surf Sport pay a $30 levy for the season, which goes towards maintenance of Nipper trailer, marquees etc.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"textColor":"primary"} -->
+<p class="has-primary-color has-text-color"><strong>Team App</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The Team App is utilised for updates and communication. Click here to download.</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:nextpageseparator {&quot;className&quot;:&quot;is-style-wide&quot;} -->
+<hr class=&quot;wp-block-separator is-style-wide&quot; />
+<!--nextpage /wp:separator -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator {&quot;className&quot;:&quot;is-style-wide&quot;} -->
+<hr class=&quot;wp-block-separator is-style-wide&quot; />
+<!-- /wp:nextpageseparator -->
+
+<!-- wp:heading -->
+<h2></h2>
+<!-- /wp:heading -->
+
+<!-- wp:jetpack/markdown {"source":""} -->
+<div class="wp-block-jetpack-markdown"></div>
+<!-- /wp:jetpack/markdown -->
