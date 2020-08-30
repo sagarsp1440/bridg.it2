@@ -1,0 +1,48 @@
+LIFESAVING
+<!-- wp:jetpack/layout-grid {"column1DesktopSpan":3,"column1TabletSpan":4,"column1MobileSpan":4,"column2DesktopSpan":3,"column2TabletSpan":4,"column2MobileSpan":4,"column3DesktopSpan":3,"column3TabletSpan":4,"column3MobileSpan":4,"column4DesktopSpan":3,"column4TabletSpan":4,"column4MobileSpan":4} -->
+<div class="wp-block-jetpack-layout-grid alignfull column1-desktop-grid__span-3 column1-desktop-grid__row-1 column2-desktop-grid__span-3 column2-desktop-grid__start-4 column2-desktop-grid__row-1 column3-desktop-grid__span-3 column3-desktop-grid__start-7 column3-desktop-grid__row-1 column4-desktop-grid__span-3 column4-desktop-grid__start-10 column4-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-4 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column3-tablet-grid__span-4 column3-tablet-grid__row-2 column4-tablet-grid__span-4 column4-tablet-grid__start-5 column4-tablet-grid__row-2 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2 column3-mobile-grid__span-4 column3-mobile-grid__row-3 column4-mobile-grid__span-4 column4-mobile-grid__row-4"><!-- wp:jetpack/layout-grid-column -->
+<div class=&quot;wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none&quot;><!-- wp:imagecover {&quot;url&quot;:&quot;https:\/\/oceangroveslsccom.files.wordpress.com\/2020\/08\/2020-01-25_alliance_6d__mg_1937-1.jpg&quot;,&quot;id&quot;:430} -->
+<figurediv class=&quot;wp-block-cover has-background-dim&quot; style=&quot;background-image:url('https://oceangroveslsccom.files.wordpress.com/2020/08/2020-01-25_alliance_6d__mg_1937-1.jpg');&quot;><imgdiv altclass=&quot;wp-block-cover__inner-container&quot;><!-- wp:paragraph {&quot;align&quot;:&quot;center&quot;,&quot;placeholder&quot;:&quot;Write title\u2026&quot;,&quot;fontSize&quot;:&quot;large&quot;} -->
+<p class=&quot;has-text-align-center has-large-font-size&quot;>PATROL</p>
+<!-- /wp:paragraph --></figurediv></div>
+<!-- /wp:imagecover --></div>
+<!-- /wp:jetpack/layout-grid-column -->
+
+<!-- wp:jetpack/layout-grid-column -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"><!-- wp:cover {"url":"https:\/\/oceangroveslsccom.files.wordpress.com\/2020\/08\/img_0765.jpg","id":429} -->
+<div class="wp-block-cover has-background-dim" style="background-image:url('https://oceangroveslsccom.files.wordpress.com/2020/08/img_0765.jpg');"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title\u2026","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size"><span class="uppercase">NIPPERS</span></p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover --></div>
+<!-- /wp:jetpack/layout-grid-column -->
+
+<!-- wp:jetpack/layout-grid-column -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"><!-- wp:cover {"url":"https:\/\/oceangroveslsccom.files.wordpress.com\/2020\/08\/screen-shot-2020-08-24-at-12.25.21-am-5.png","id":282} -->
+<div class="wp-block-cover has-background-dim" style="background-image:url('https://oceangroveslsccom.files.wordpress.com/2020/08/screen-shot-2020-08-24-at-12.25.21-am-5.png');"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title\u2026","fontSize":"large"} -->
+<p class=&quot;has-text-align-center has-large-font-size&quot;>COMPETITION</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover --></div>
+<!-- /wp:jetpack/layout-grid-column -->
+
+<!-- wp:jetpack/layout-grid-column -->
+<div class=&quot;wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none&quot;><!-- wp:cover {&quot;url&quot;:&quot;https:\/\/oceangroveslsccom.files.wordpress.com\/2020\/08\/oowsf.jpg&quot;,&quot;id&quot;:186} -->
+<div class=&quot;wp-block-cover has-background-dim&quot; style=&quot;background-image:url('https://oceangroveslsccom.files.wordpress.com/2020/08/oowsf.jpg');&quot;><div class=&quot;wp-block-cover__inner-container&quot;><!-- wp:paragraph {&quot;align&quot;:&quot;center&quot;,&quot;placeholder&quot;:&quot;Write title\u2026&quot;,&quot;fontSize&quot;:&quot;large&quot;} -->
+<p class=&quot;has-text-align-center has-large-font-size&quot;>TRAINING</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover --></div>
+<!-- /wp:jetpack/layout-grid-column --></div>
+<!-- /wp:jetpack/layout-grid -->
+
+<!-- wp:coverparagraph {&quot;align&quot;:&quot;center&quot;} -->
+<p class=&quot;has-text-align-center&quot;><strong><a href=&quot;https://oceangroveslsccom.wordpress.com/calendar/&quot;>See our online calendar for all patrol, nippers, competition and training dates.</a></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {&quot;align&quot;:&quot;center&quot;} -->
+<div class=&quot;wp-block-coverbuttons hasaligncenter&quot;><!-background-dim wp:button {&quot;borderRadius&quot;:50,&quot;className&quot;:&quot;is-style-outline&quot;} -->
+<div class=&quot;wp-block-cover__innerbutton is-style-containeroutline&quot;><a class=&quot;wp-block-button__link&quot; href=&quot;https://oceangroveslsccom.wordpress.com/calendar/&quot; style=&quot;border-radius:50px;&quot;>CALENDAR</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:coverbuttons -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
